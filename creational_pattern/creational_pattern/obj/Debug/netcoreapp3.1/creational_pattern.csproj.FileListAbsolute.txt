@@ -1,0 +1,13 @@
+H:\CG training\design patterns\creational_pattern\creational_pattern\obj\Debug\netcoreapp3.1\creational_pattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\CG training\design patterns\creational_pattern\creational_pattern\obj\Debug\netcoreapp3.1\creational_pattern.AssemblyInfoInputs.cache
+H:\CG training\design patterns\creational_pattern\creational_pattern\obj\Debug\netcoreapp3.1\creational_pattern.AssemblyInfo.cs
+H:\CG training\design patterns\creational_pattern\creational_pattern\obj\Debug\netcoreapp3.1\creational_pattern.csproj.CoreCompileInputs.cache
+H:\CG training\design patterns\creational_pattern\creational_pattern\bin\Debug\netcoreapp3.1\creational_pattern.exe
+H:\CG training\design patterns\creational_pattern\creational_pattern\bin\Debug\netcoreapp3.1\creational_pattern.deps.json
+H:\CG training\design patterns\creational_pattern\creational_pattern\bin\Debug\netcoreapp3.1\creational_pattern.runtimeconfig.json
+H:\CG training\design patterns\creational_pattern\creational_pattern\bin\Debug\netcoreapp3.1\creational_pattern.runtimeconfig.dev.json
+H:\CG training\design patterns\creational_pattern\creational_pattern\bin\Debug\netcoreapp3.1\creational_pattern.dll
+H:\CG training\design patterns\creational_pattern\creational_pattern\bin\Debug\netcoreapp3.1\creational_pattern.pdb
+H:\CG training\design patterns\creational_pattern\creational_pattern\obj\Debug\netcoreapp3.1\creational_pattern.dll
+H:\CG training\design patterns\creational_pattern\creational_pattern\obj\Debug\netcoreapp3.1\creational_pattern.pdb
+H:\CG training\design patterns\creational_pattern\creational_pattern\obj\Debug\netcoreapp3.1\creational_pattern.genruntimeconfig.cache
